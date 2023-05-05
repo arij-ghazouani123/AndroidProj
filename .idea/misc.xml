@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/drawable/custom_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/activity_add_book.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/activity_main_bottom.xml" value="0.264" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/activity_splash_screen.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/activity_upload_image.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/bottomsheetlayout.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/fragment_messages.xml" value="0.12409420289855072" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/fragment_settings.xml" value="0.12409420289855072" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/item_post.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/itembook.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/layout/list_row.xml" value="0.4" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/menu/bottom_menu.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/arij/hamza/BookyAndroid-FrontHamza/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/drawable/baseline_delete_24.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_add_book.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_comfirm_account.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_confirm_after_reset.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_google_login.xml" value="0.2" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_main_bottom.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_update_book.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/activity_upload_image_update.xml" value="0.10536980749746708" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/fragment_add.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/fragment_messages.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/item_post.xml" value="0.2" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/list_row.xml" value="0.264" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/list_row_user.xml" value="0.292817679558011" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/loading_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/single_chat_shimmer.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/single_conversation.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/layout/single_message.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Arij/OneDrive/Bureau/final validation android/Android-Booky-main/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.01965901183020181" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
